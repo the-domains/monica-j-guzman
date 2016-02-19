@@ -1,0 +1,28 @@
+name: Monica J. Guzman
+favicon: null
+layout_spectrum: 0.09756638528779149
+typography_spectrum: 0.9859769854228944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5092614768072963
+  lightness: 0.7421588483266532
+  saturation: 0.5765267401002347
+  rhythmicContrast: 0.008550569182261825
+purpose: []
